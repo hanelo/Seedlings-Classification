@@ -28,6 +28,8 @@ The trained model achieves a validation accuracy of approximately 77.5%, demonst
 
 Explaining Predictions with LIME
 Local Interpretable Model-Agnostic Explanations (LIME) is utilized to interpret model predictions and identify important image features. Analysis reveals that the model relies heavily on image size rather than plant characteristics for classification.
+![Uploading image.png…]()
+
 
 Conclusion and Recommendations
 In conclusion, this project highlights the importance of thorough data exploration and consideration of potential target leakage in model development. To improve model robustness, future efforts should focus on addressing dataset biases, collecting diverse images representative of real-world scenarios, and developing interpretability techniques to ensure model transparency and reliability.
